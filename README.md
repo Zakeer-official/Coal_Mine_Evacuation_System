@@ -1,5 +1,3 @@
-# Group-2-IoT_Competition_Report
-
 # Project Title:  Coal Mine Evacuation System Using Multi-Sensor Control
 
 # Description: 
