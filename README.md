@@ -1,4 +1,4 @@
-# Project Title:  Coal Mine Evacuation System Using Multi-Sensor Control
+# Coal Mine Evacuation System Using Multi-Sensor Control
 
 # Description: 
 The "Coal Mine Evacuation System" is a sophisticated and intelligent solution designed to enhance the safety and efficiency of evacuations in coal mines. This innovative system integrates multiple sensors and control mechanisms to detect and respond to emergency situations, ensuring the well-being of miners during critical moments. By employing a combination of gas sensors, temperature and humidity sensors, obstacle detection sensors, emergency lighting controls, and communication interfaces, the project offers a comprehensive approach to mitigating potential risks in coal mines.
